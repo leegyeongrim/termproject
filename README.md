@@ -17,3 +17,4 @@
 * 총 11가지의 손동작 데이터를 이용해서 양 손의 움직임이 같으면 상단에 Same이라는 문구가 뜨게 합니다.
 
 #### 예시 사진
+https://user-images.githubusercontent.com/91201852/146947751-2a51feb3-eecc-4c51-9936-f67f371931b7.png
