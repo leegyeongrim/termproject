@@ -18,4 +18,6 @@
 
 #### 예시 사진
 <img width="1052" alt="스크린샷 2021-12-21 오후 11 35 43" src="https://user-images.githubusercontent.com/91201852/146950871-a4bb3363-2293-4e22-bc38-0f5abeded530.png">
+<img width="1053" alt="스크린샷 2021-12-21 오후 11 35 22" src="https://user-images.githubusercontent.com/91201852/146951324-ea3d741c-8017-4227-889b-66b709d87bef.png">
+<img width="1227" alt="22" src="https://user-images.githubusercontent.com/91201852/146951635-c56bbea6-bec3-4646-b4c3-63c7949a999c.png">
 
